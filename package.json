@@ -1,0 +1,17 @@
+{
+  "name": "slidev-temp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "@supabase/supabase-js": "^2.45.4",
+    "async": "^3.2.6",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "p-queue": "^8.0.1",
+    "puppeteer": "^23.5.3",
+    "vue": "latest"
+  }
+}
